@@ -1,4 +1,4 @@
-Akan-Name Calculator
+# Akan-Name Calculator
 ## setup
 1)Install atom<br>2)Write your codes install a live server<br>3)Push your code to the remote server
 ## Technology used
