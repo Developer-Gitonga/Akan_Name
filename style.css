@@ -1,0 +1,79 @@
+
+body{
+  font-family:courier;
+  color:green;
+  font-size:19px;
+  background-image: url("images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  height: auto;
+
+}
+
+h1{
+  font-size:38px;
+  padding-top:20px;
+}
+
+.container{
+  width:60%;
+  margin:auto;
+}
+
+#dayOfBirth{
+  border-radius:5px;
+  width:60px;
+  height:20px;
+}
+
+#gender{
+  border-radius:5px;
+  width:60px;
+  height:20px;
+}
+
+#get-name{
+  border-radius:5px;
+  color:white;
+  background-color:green;
+  text-align:center;
+  border:solid 1px #000000;
+  width:108px;
+  height:32px;
+  font-size:13px;
+}
+
+#result{
+  text-align:center;
+}
+
+.content{
+  background-color:#1C0536;
+  margin-left:20%;
+  margin-right:20%;
+  margin-top:auto;
+  margin-bottom:auto;
+  padding-bottom:20px;
+  border-radius:0.5%;
+}
+
+.research{
+  text-decoration:underline;
+  color:white;
+}
+
+a:hover{
+  color:black;
+}
+
+.clear{
+  border-radius:3px;
+  color:white;
+  background-color:green;
+  text-align:center;
+  border:solid 1px #000000;
+  width:108px;
+  height:32px;
+  font-size:13px;
+}
