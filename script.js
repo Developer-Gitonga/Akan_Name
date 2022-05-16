@@ -6,6 +6,7 @@ function getAkanName () {
   let dayOfBirth = Number(document.getElementById("day-input").value);
   let genders = document.getElementsByName("gender");
 
+  
   // gender
   function getGender () {
     for (let gender of genders){
