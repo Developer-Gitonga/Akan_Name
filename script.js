@@ -82,6 +82,7 @@ function getAkanName () {
   }
 
   console.log(index);
+  
 
   if (myGenderValue == "male" && monthValid && dayValid) {
     document.getElementById('result').textContent = "You were born on a " + daysOfWeek[index] + " , your Akan name is " + maleAkanNames[index];
