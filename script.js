@@ -71,6 +71,7 @@ function getAkanName () {
     "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"
   ];
 
+  
   //generating and index value to select items on arrays
   let index;
   // fix formula bug
