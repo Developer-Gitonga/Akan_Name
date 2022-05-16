@@ -47,6 +47,7 @@ function getAkanName () {
     }
   }
 
+  
   // validation variables
   let monthValid = monthValidator();
   let dayValid = dayValidator();
